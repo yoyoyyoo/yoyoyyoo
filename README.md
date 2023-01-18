@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yoyoyyoo
+- 👋 Hi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning St.Lawrence College
 - 💞️ I’m looking to collaborate on ...
